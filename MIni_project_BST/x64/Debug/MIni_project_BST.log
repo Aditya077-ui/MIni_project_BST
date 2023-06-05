@@ -1,0 +1,8 @@
+﻿  BST.cpp
+C:\Users\Aditya\source\repos\MIni_project_BST\MIni_project_BST\BST.cpp(112,24): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aditya\source\repos\MIni_project_BST\MIni_project_BST\BST.cpp(112,22): warning C4244: 'initializing': conversion from 'int' to 'const float', possible loss of data
+C:\Users\Aditya\source\repos\MIni_project_BST\MIni_project_BST\BST.cpp(116,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Aditya\source\repos\MIni_project_BST\MIni_project_BST\BST.cpp(531,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Aditya\source\repos\MIni_project_BST\MIni_project_BST\BST.cpp(541,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  MIni_project_BST.vcxproj -> C:\Users\Aditya\source\repos\MIni_project_BST\x64\Debug\MIni_project_BST.exe
+          1 file(s) copied.
